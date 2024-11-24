@@ -1,5 +1,5 @@
 {
-  "name": "umi-plugin-electron-builder",
+  "name": "@chrissong/umi-plugin-electron-builder",
   "version": "4.0.7",
   "description": "Umi plugin for electron-builder",
   "main": "lib/index.js",
@@ -31,19 +31,19 @@
     "access": "public"
   },
   "dependencies": {
-    "@umijs/bundler-webpack": "latest",
-    "@umijs/utils": "latest",
-    "electron": "latest",
-    "electron-builder": "latest",
-    "ts-loader": "latest",
-    "vite": "latest",
-    "yargs": "latest"
+    "@umijs/bundler-webpack": "^4.0.3",
+    "@umijs/utils": "^4.0.3",
+    "electron": "^23.1.1",
+    "electron-builder": "23.1.0",
+    "ts-loader": "8.0.5",
+    "vite": "5.4.11",
+    "yargs": "16.0.2"
   },
   "devDependencies": {
-    "@types/yargs": "latest",
-    "father": "latest",
+    "@types/yargs": "16.0.2",
+    "father": "4.0.3",
     "prettier": "latest",
     "typescript": "latest",
-    "umi": "latest"
+    "umi": "^4.0.3"
   }
 }
