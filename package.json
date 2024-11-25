@@ -1,6 +1,6 @@
 {
   "name": "@chrissong/umi-plugin-electron-builder",
-  "version": "4.0.7",
+  "version": "0.0.1",
   "description": "Umi plugin for electron-builder",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
